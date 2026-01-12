@@ -1,0 +1,5 @@
+{
+  "name": "Expresso Celular - Gestão de Caixa",
+  "description": "Sistema simplificado para controle de entradas, saídas e fechamento de caixa diário com geração de relatório em PDF.",
+  "requestFramePermissions": []
+}
